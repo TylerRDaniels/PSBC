@@ -1,0 +1,39 @@
+/* header */
+
+.btn-cust {
+    margin-left: 10px;
+    height: 40px;
+}
+
+.global-section-header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* end Header */
+
+/* Contact section */
+
+.table-list-item {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* end contact section */
+
+/* footer */
+
+.footer {
+   /* display: flex; */
+   justify-content: center;
+   align-items: center;
+}
+
+.footer-row {
+    height: 7vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* end footer */
